@@ -1,5 +1,6 @@
 # Password Generator Starter Code
-Challenge 3: Password Generator
+JavaScript Challenge 3: Password Generator
+
 The task was to work on an existing code and make it functional. 
 
 The only changes here are made in Javascript file. The variables were assigned as the task was to generate password with numbers,special characters, lowercase and uppercase.
