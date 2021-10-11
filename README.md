@@ -7,7 +7,8 @@ The only changes here are made in Javascript file. The variables were assigned a
 
 ![Screenshot](https://user-images.githubusercontent.com/90426266/136713949-0e0967ac-bb22-4e98-afbd-add86c5217a2.png)
 
-Checkout my work at this link: 
+Checkout my work at this link: https://pabi149.github.io/password-generator/
+
 
 
 
